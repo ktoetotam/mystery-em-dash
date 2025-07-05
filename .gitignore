@@ -1,0 +1,38 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+.env.local
+.env.production
+
+# API Keys and sensitive files
+*.key
+*_keys.txt
+secrets.json
+config.json
+
+# macOS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Large data files (uncomment if needed)
+# *.json
+# *.csv
+
+# Temporary files
+*.tmp
+*.temp
+
+# Log files
+*.log
